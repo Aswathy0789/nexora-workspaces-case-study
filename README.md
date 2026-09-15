@@ -29,7 +29,7 @@ For the missing values, rather than deleting rows or filling in estimated number
 ![2025 Revenue, Occupancy, and Operating Cost Summary](images/2025%20avg%20revenueoccupanyoperatingcost.png)
 
 **Revenue.** London Canary Wharf generated the highest total revenue for the year, followed closely by Dubai Downtown. This did not fully align with occupancy performance, since London's occupancy rate was actually below average. The likely explanation is that EMEA locations command a higher revenue per desk, possibly due to a more premium client base or additional services such as meeting room usage, though the dataset does not break revenue down by service type, so this remains a hypothesis rather than a confirmed driver.
-Looking at revenue by region across each month, both EMEA and MEA show minor month to month dips within an overall upward trend, for example EMEA in October and MEA in April and August, marked in the screenshot below. These are small fluctuations rather than a real decline, since both regions still grew significantly from January to December, but they may be worth checking against seasonal demand patterns
+Looking at revenue by region across each month, both EMEA and MEA show minor month to month dips within an overall upward trend, for example EMEA in October and MEA in April and August, marked in the screenshot below. These are small fluctuations rather than a real decline, since both regions still grew significantly from January to December, but they may be worth checking against seasonal demand patterns.
 
 ![Monthly Revenue by Region](images/Monthly%20revenue%20by%20region.png)
 
@@ -44,7 +44,8 @@ Looking at revenue by region across each month, both EMEA and MEA show minor mon
 
 **Budget Performance.** Comparing actual results against budgeted targets, Gurgaon Cyber Hub beat its revenue budget by nearly thirty two percent, the strongest overperformance in the portfolio. Bengaluru Whitefield was the only location to miss its revenue budget, falling just under two percent short. On the cost side, Abu Dhabi Corniche was the only location that came in under its cost budget, while Manchester City Centre had the largest proportional cost overrun.
 
-![Revenue Variance by Location](images/Revenue%20Variance.png)
+![Revenue Variance by Location](images/Revenue%20Variance.png) 
+-
 ![Operating Cost Variance by Location](images/Cost%20variance.png)
 
 ## Conclusion
@@ -52,6 +53,8 @@ Looking at revenue by region across each month, both EMEA and MEA show minor mon
 Across every metric measured, occupancy, profit margin, ticket resolution, and budget performance, Gurgaon Cyber Hub was consistently the strongest performing location, while Bengaluru Whitefield was consistently the weakest. This kind of agreement across several independent metrics makes the pattern more credible than any single number on its own. The recurring link between slower ticket resolution and weaker occupancy at Bengaluru suggests that service responsiveness may be affecting client retention there, and it would be worth investigating with more detailed data, such as ticket categories, to confirm whether this is really driving the underperformance or whether other factors are involved.
 
 ## Skills Demonstrated
-
 This project involved data cleaning and standardization in Power Query, SUMIFS and AVERAGEIFS based analysis, PivotTable construction across multiple dimensions, budget variance analysis, and translating raw operational numbers into a clear, leadership ready narrative.
+
+## Dataset
+The full Excel workbook, including all formulas, PivotTables, and the raw uncleaned data for comparison, is available in this repository as Nexora_Workspaces_Case_Study.xlsx.
 
