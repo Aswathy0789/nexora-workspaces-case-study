@@ -44,7 +44,8 @@ Looking at revenue by region across each month, both EMEA and MEA show minor mon
 
 **Budget Performance** - Comparing actual results against budgeted targets, Gurgaon Cyber Hub beat its revenue budget by nearly thirty two percent, the strongest overperformance in the portfolio. Bengaluru Whitefield was the only location to miss its revenue budget, falling just under two percent short. On the cost side, Abu Dhabi Corniche was the only location that came in under its cost budget, while Manchester City Centre had the largest proportional cost overrun.
 
-![Revenue Variance by Location](images/Revenue%20Variance.png) 
+![Revenue Variance by Location](images/Revenue%20Variance.png)
+/ ![Operating Cost Variance by Location](images/Cst.png)
 
 
 ## Conclusion
