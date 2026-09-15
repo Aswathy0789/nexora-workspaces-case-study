@@ -55,6 +55,18 @@ Across every metric measured, occupancy, profit margin, ticket resolution, and b
 ## Skills Demonstrated
 This project involved data cleaning and standardization in Power Query, SUMIFS and AVERAGEIFS based analysis, PivotTable construction across multiple dimensions, budget variance analysis, and translating raw operational numbers into a clear, leadership ready narrative.
 
+## Recommendations
+
+A few practical points come out of this analysis, though it is worth saying upfront that these are suggestions based on the data available in this case study, and a real decision would need more detail before being acted on.
+
+1. Bengaluru Whitefield stands out as the location to look at first. Its ticket resolution rate is well below the others, and that sits alongside its weaker occupancy and lowest margin. This is not proof that one is causing the other, but the pattern is consistent enough to be worth a proper review of what is happening on the ground there, whether that is staffing levels, response times, or something else in how complaints are handled.
+
+2. Gurgaon Cyber Hub performed well across every measure in this dataset, and it would be reasonable to look at what is different about how that location runs compared to the others, since whatever is working there might apply elsewhere. It is also close to full, so if demand keeps growing, capacity there may become a limiting factor before too long.
+
+3. London Canary Wharf is a slightly different case. It brings in the most revenue but has one of the lower occupancy rates, and with the data available here it is not possible to say whether that is a pricing strategy, location or other external things like meeting room used by external clients.
+
+4. The cost overruns at Manchester and Dubai are also worth a closer look, mainly to understand what is driving them before next year's budget is set, since that would make the numbers more reliable going forward.
+
 ## Dataset
 The full Excel workbook, including all formulas, PivotTables, and the raw uncleaned data for comparison, is available in this repository as Nexora_Workspaces_Case_Study.xlsx.
 
