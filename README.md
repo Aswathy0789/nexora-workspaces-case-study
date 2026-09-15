@@ -25,6 +25,7 @@ For the missing values, rather than deleting rows or filling in estimated number
 **Occupancy.** Gurgaon Cyber Hub had the highest average occupancy rate across the year at just over eighty seven percent, while Bengaluru Whitefield had the lowest at just under sixty six percent.
 
 **Revenue.** London Canary Wharf generated the highest total revenue for the year, followed closely by Dubai Downtown. This did not fully align with occupancy performance, since London's occupancy rate was actually below average. The likely explanation is that EMEA locations command a higher revenue per desk, possibly due to a more premium client base or additional services such as meeting room usage, though the dataset does not break revenue down by service type, so this remains a hypothesis rather than a confirmed driver.
+![Monthly Revenue by Region](images/Monthly%20revenue%20by%20region.png)
 
 **Profit and Margin.** After calculating operating cost against revenue, Gurgaon Cyber Hub stood out as the strongest performer, with a profit margin of just over thirty seven percent, nearly double that of London despite London's higher raw revenue. Bengaluru Whitefield had the weakest margin at just under sixteen percent, driven by a combination of below average occupancy and comparatively high operating costs.
 
