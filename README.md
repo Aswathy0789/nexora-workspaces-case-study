@@ -20,7 +20,7 @@ Working through Power Query, I standardized the location names using Trim and Ca
 
 For the missing values, rather than deleting rows or filling in estimated numbers, I checked whether the gaps were random or clustered. Customer Satisfaction was missing in about four percent of rows, spread across different locations and months with no pattern. Tickets Resolved was also missing in about four percent of rows, and while the months were random, two of the four missing values did come from the same location, Bengaluru Whitefield. Given how small that sample size is, it was not treated as conclusive evidence of a systemic issue, but it was noted as something worth watching if it recurred in a larger dataset. In both cases the missing values were left as true blanks and handled using formulas that exclude blanks automatically, rather than being filled with invented numbers.
 
-![Data Cleaning](images/data%20cleaning.png)
+![Data Cleaning in Power BI](images/Data%20cleaning.png)
 
 ## Key Findings
 
