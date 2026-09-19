@@ -70,3 +70,11 @@ A few practical points come out of this analysis, though it is worth saying upfr
 ## Dataset
 The full Excel workbook, including all formulas, PivotTables, and the raw uncleaned data for comparison, is available in this repository as Nexora_Workspaces_Case_Study.xlsx.
 
+## Power BI Dashboard
+
+To complement the Excel analysis, the same cleaned dataset was used to build an interactive Power BI dashboard, with DAX measures for occupancy rate, profit margin, and ticket resolution rate, plus Region and Location slicers so the whole report can be filtered dynamically.
+
+![Power BI Dashboard](images/Nexora%20powerbi.png)
+
+The full interactive file, including all DAX measures and working filters, is available in this repository as Nexa case study powerbi.pbix.
+
